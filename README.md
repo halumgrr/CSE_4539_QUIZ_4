@@ -11,6 +11,10 @@ A web application for managing tasks with user authentication using Node.js, Exp
 - Task Filtering & Sorting
 - Search Functionality
 
+## Important Note
+
+For demonstration purposes in this quiz, the JWT secret key is directly included in the code rather than stored in a `.env` file. In a production environment, sensitive information like JWT secrets should always be stored in environment variables for security reasons.
+
 ## Installation & Setup
 
 ### 1. Clone the repository
