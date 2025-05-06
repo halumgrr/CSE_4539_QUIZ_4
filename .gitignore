@@ -1,0 +1,54 @@
+# Visual Studio Code
+.vscode/
+.vs/
+*.code-workspace
+
+# Build outputs
+bin/
+obj/
+out/
+build/
+dist/
+
+# Dependencies
+node_modules/
+packages/
+vendor/
+
+# Compiled files
+*.exe
+*.dll
+*.so
+*.dylib
+*.class
+*.o
+*.pyc
+__pycache__/
+
+# Environment and configuration
+.env
+.env.local
+config.local.json
+*.local.json
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Operating System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Temporary files
+*.tmp
+*.temp
+*~
