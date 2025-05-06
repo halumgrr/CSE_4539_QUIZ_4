@@ -17,6 +17,7 @@ A web application for managing tasks with user authentication using Node.js, Exp
 ```bash
 git clone <repository-url>
 cd <project-folder>
+cd QUIZ_4
 ```
 
 ### 2. Backend Setup
